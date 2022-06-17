@@ -1,0 +1,23 @@
+{
+  "name": "papi-jay",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d form"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olubiyisho1/js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olubiyisho1/js/issues"
+  },
+  "homepage": "https://github.com/Olubiyisho1/myForm",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}

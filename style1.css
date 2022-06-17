@@ -1,0 +1,111 @@
+body{
+	background: whites;
+	color: black;
+	padding: 16px;
+	margin: auto ;
+}
+
+
+.p-box{
+	background-color:white;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px;
+
+}
+
+
+h2{
+	text-align: center;
+    text-transform: capitalize;
+    padding: 20px;
+}
+
+
+
+.container{
+	background: white;
+	color: black;
+	border: 0.01em lightgrey solid;
+	border-radius: 3% ;
+	margin: 10% 35% 100px;
+	padding-left: 50px;
+	padding-right: 80px;
+
+}
+
+/*.error{
+	background-color: red;
+	color: white ;
+	padding: 5px;
+	margin: 5px;
+
+}
+*/
+
+.my-form label{
+   padding-left: 10px ;
+   text-transform: capitalize;
+}
+
+
+.my-form input{
+	background: white;
+	color: black;
+	text-transform: capitalize;
+	width: 100%;
+	padding: 16px 20px 40px 60px;
+	border: 0.2em lightgray solid;
+}
+
+
+.my-form input[type="submit"]{
+	background: lightseagreen;
+	color: white;
+    margin-left:10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: none;
+	width: 110%;
+	border-radius: 3px;
+}
+
+
+.my-form input[type="text"]{
+    margin: 10px;
+    padding:10px;
+   
+}
+
+.my-form input[type="email"]{
+    margin: 10px;
+	padding: 10px;
+}
+
+.my-form{
+	width: 100%;
+}
+
+.form-control small {
+	position: absolute;
+	margin: 3px;
+	visibility: hidden;
+
+}
+
+.form-control.error input {
+	border-color: red;
+}
+
+.form-control.error small{
+	color: red;
+	visibility: visible;
+	padding-right: 12px;
+	margin-left: 12px;
+}
+
+
+ .form-control.success  input{
+	border-color: green;
+}
+
