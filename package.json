@@ -1,5 +1,5 @@
 {
-  "name": "papi-jay",
+  "name": "my-form",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Olubiyisho1/js/issues"
   },
-  "homepage": "https://github.com/Olubiyisho1/my-form.git",
+  "homepage": "https://github.com/Olubiyisho1/my-form",
   "description": "",
   "dependencies": {
     "gh-pages": "^4.0.0"
